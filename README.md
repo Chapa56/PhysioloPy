@@ -1,7 +1,8 @@
 # PhysioloPy
 
-## Cellular Physiology
 Python framework for the human physiology simulation.
+
+## Cellular Physiology
 
 [Simulation of a set of chemical reactions inside a test tube.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/chemical_simulation.ipynb)
 
@@ -15,6 +16,10 @@ Python framework for the human physiology simulation.
 
 ### Cardiovascular system
 
-[Simulation of a set of chemical reactions inside a test tube.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/chemical_simulation.ipynb)
+[Circulation in arteries connected in series and parallel.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/01 circulation en serie y en paralelo.ipynb)
+
+[Simple model of cardio circulation.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/02 cardio circulacion basica.ipynb)
+
+[simple model of cardio circulation with solutes convection.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/03 cardio circulacion y convección de solutos.ipynb)
 
 
