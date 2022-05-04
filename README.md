@@ -1,6 +1,6 @@
 # PhysioloPy
 
-Python framework for the human physiology simulation.
+Python framework for human physiology simulation.
 
 ## Cellular Physiology
 
