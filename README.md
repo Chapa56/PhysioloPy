@@ -1,2 +1,2 @@
 # PhysioloPy
-Python framework for the human physiology simulation
+Python framework for the human physiology simulation.
