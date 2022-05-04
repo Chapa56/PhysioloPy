@@ -7,4 +7,8 @@ Python framework for the human physiology simulation.
 
 [Cheyne-Stokes breathing.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/breathing_simulation.ipynb)
 
+## Cardiovascular system
+
+[Simulation of a set of chemical reactions inside a test tube.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/chemical_simulation.ipynb)
+
 
