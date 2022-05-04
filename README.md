@@ -20,6 +20,6 @@ Python framework for the human physiology simulation.
 
 [Simple model of cardio circulation.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/02_cardio_circulacion_basica.ipynb)
 
-[simple model of cardio circulation with solutes convection.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/03_cardio_circulacion_y_convección_de_solutos.ipynb)
+[Simple model of cardio circulation with solutes convection.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/03_cardio_circulacion_y_convección_de_solutos.ipynb)
 
 
