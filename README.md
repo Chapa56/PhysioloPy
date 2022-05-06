@@ -18,7 +18,7 @@ Python framework for human physiology simulation.
 
 ### Cardiovascular system
 
-[Circulation in arteries connected in series and parallel.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/01_circulation_en_serie_y_en_paralelo.ipynb)
+[Arteries circulation in series and parallel connection.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/01_circulation_en_serie_y_en_paralelo.ipynb)
 
 [Simple model of cardio circulation.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/02_cardio_circulacion_basica.ipynb)
 
