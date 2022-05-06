@@ -1,6 +1,6 @@
 # PhysioloPy
 
-** In development **
+*** In development ***
 
 Python framework for human physiology simulation.
 
