@@ -10,6 +10,8 @@ Python framework for human physiology simulation.
 
 [Simulation of a set of bacteria in a petri dish.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/bacterium_simulation.ipynb)
 
+[Difussion of petri dish glucose inside bacterium](https://github.com/Chapa56/PhysioloPy/blob/main/examples/bacterium_difussion.ipynb)
+
 ## Systems Physiology
 
 ### Respiratory system
