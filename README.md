@@ -10,7 +10,9 @@ Python framework for human physiology simulation.
 
 [Simulation of a set of bacteria in a petri dish.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/bacterium_simulation.ipynb)
 
-[Diffusion of petri dish glucose inside bacterium.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/bacterium_diffusion.ipynb)
+[Animation of glucose diffusion inside bacterium.](https://github.com/Chapa56/PhysioloPy/blob/main/examples/bacterium_diffusion.ipynb)
+
+Color indicates glucose concentration, higher intensity higher concentration. Over time, the concentration of glucose inside the bacteria equals that of the petri dish and therefore the disk representing the bacteria practically disappears because it is the same color.
 
 ## Systems Physiology
 
