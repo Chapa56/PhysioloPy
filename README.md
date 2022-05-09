@@ -14,7 +14,7 @@ Python framework for human physiology simulation.
 
 Color indicates glucose concentration, higher intensity higher concentration. Over time, the concentration of glucose inside the bacteria equals that of the petri dish and therefore the disk representing the bacteria practically disappears because it is the same color.
 
-<img src="./images/bacterium_diffusion01.gif" width="400" class="center">
+<img src="./images/bacterium_diffusion01.gif" width="400">
 
 ## Systems Physiology
 
